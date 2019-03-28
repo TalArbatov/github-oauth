@@ -1,5 +1,5 @@
 {
-  "name": "github-oauth",
+  "name": "github-oauth-example",
   "version": "1.0.0",
   "description": "A Project where I connect GitHub-OAuth with a MERN stack",
   "main": "index.js",
@@ -30,6 +30,7 @@
     "concurrently": "^4.1.0",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
+    "github-oauth": "^0.2.2",
     "mongoose": "^5.4.20",
     "nodemon": "^1.18.10",
     "react": "^16.8.6",
