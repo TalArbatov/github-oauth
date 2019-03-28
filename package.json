@@ -1,0 +1,19 @@
+{
+  "name": "github-oauth",
+  "version": "1.0.0",
+  "description": "A Project where I connect GitHub-OAuth with a MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalArbatov/github-oauth.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TalArbatov/github-oauth/issues"
+  },
+  "homepage": "https://github.com/TalArbatov/github-oauth#readme"
+}
